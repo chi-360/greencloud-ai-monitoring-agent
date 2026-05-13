@@ -1,0 +1,6 @@
+server_id,cpu_load,temperature,power_usage
+DV-SERVER-01,45,54,310
+DV-SERVER-02,76,69,480
+DV-SERVER-03,91,82,620
+DV-SERVER-04,38,49,270
+DV-SERVER-05,84,78,590
